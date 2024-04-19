@@ -1,4 +1,4 @@
-const weatherKey = '904b4b7d8eff9d13d463ed0787cd967f';
+const weatherKey = '74dddffcfdcfe1b20f52ebe2ae3636ef';
 const timeKey = 'abhyudaya_10';
 
 const token ='https://api.ultramsg.com/instance83877/'
