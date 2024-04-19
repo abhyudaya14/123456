@@ -21,7 +21,7 @@ var timeLeaveStamp = new Date(2024, 04, 15);
 var timeMeetStamp = new Date(2024, 04, 21);
 
 //earliest and latest time appropirate for call
-var earliestCall = 8;
+var earliestCall = 5;
 var latestCall = 2;
 
 //-------LOGIC
