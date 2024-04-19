@@ -2,10 +2,10 @@ const weatherKey = '74dddffcfdcfe1b20f52ebe2ae3636ef';
 const timeKey = 'abhyudaya_10';
 
 const token ='https://api.ultramsg.com/instance83877/'
-const mobile ="+9779847711193"
+const mobile ="+9779864927174"
 
 const audio = "https://buibuibucket.s3.amazonaws.com/audio/Sunny+Day/Pharrell_Williams_-_Happy_CeeNaija.com_.mp3";
-const message ="Hey love, as the rain falls, it reminds me of your laughter – a beautiful melody. Wish I could be there to dance in the rain with you. Miss you lots ❤❤❤✨"
+const message ="Hey jadu,As I watch the moonlight dance on the night, it reminds me of your laughter – a beautiful melody. Wish I could be there to watch the moon rise with you. Miss you lots ❤️❤️❤️✨"
 
 
 class Location {
